@@ -1,8 +1,8 @@
 # [SWUSTOJ-数据结构后半期](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2)
 
-# 持续更新中......
+## 持续更新中......
 
-## 所有代码均已 **AC** 通过，但是答案不唯一
+### 所有代码均已 **AC** 通过，但是答案不唯一
 
 #### [#980 输出利用先序遍历创建的二叉树的层次遍历序列](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%23980%20%E8%BE%93%E5%87%BA%E5%88%A9%E7%94%A8%E5%85%88%E5%BA%8F%E9%81%8D%E5%8E%86%E5%88%9B%E5%BB%BA%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97)
 
@@ -19,3 +19,21 @@
 #### [#987 输出用先序遍历创建的二叉树是否为完全二叉树的判定结果](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%23987%20%E8%BE%93%E5%87%BA%E7%94%A8%E5%85%88%E5%BA%8F%E9%81%8D%E5%8E%86%E5%88%9B%E5%BB%BA%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91%E6%98%AF%E5%90%A6%E4%B8%BA%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%88%A4%E5%AE%9A%E7%BB%93%E6%9E%9C)
 
 #### [#1010 折半查找的实现](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231010%20%E6%8A%98%E5%8D%8A%E6%9F%A5%E6%89%BE%E7%9A%84%E5%AE%9E%E7%8E%B0)
+
+#### [#1011 二叉排序树的实现和查找](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231011%20%E4%BA%8C%E5%8F%89%E6%8E%92%E5%BA%8F%E6%A0%91%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%92%8C%E6%9F%A5%E6%89%BE)
+
+#### [#1012 哈希表（链地址法处理冲突）](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231012%20%E5%93%88%E5%B8%8C%E8%A1%A8%EF%BC%88%E9%93%BE%E5%9C%B0%E5%9D%80%E6%B3%95%E5%A4%84%E7%90%86%E5%86%B2%E7%AA%81%EF%BC%89)
+
+#### [#1013 哈希表（开放定址法处理冲突）](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231013%20%20%E5%93%88%E5%B8%8C%E8%A1%A8%EF%BC%88%E5%BC%80%E6%94%BE%E5%AE%9A%E5%9D%80%E6%B3%95%E5%A4%84%E7%90%86%E5%86%B2%E7%AA%81%EF%BC%89)
+
+#### [#1014 交换排序算法的设计与实现——冒泡排序](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231014%20%E4%BA%A4%E6%8D%A2%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%E2%80%94%E2%80%94%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F)
+
+#### [#1015 堆排序算法](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231015%20%E5%A0%86%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95)
+
+#### [#1016 插入排序算法实现](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231016%20%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E5%AE%9E%E7%8E%B0)
+
+#### [#1051 输出利用先序遍历创建的二叉树中的指定结点的孩子结点](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231051%20%E8%BE%93%E5%87%BA%E5%88%A9%E7%94%A8%E5%85%88%E5%BA%8F%E9%81%8D%E5%8E%86%E5%88%9B%E5%BB%BA%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E7%9A%84%E6%8C%87%E5%AE%9A%E7%BB%93%E7%82%B9%E7%9A%84%E5%AD%A9%E5%AD%90%E7%BB%93%E7%82%B9)
+
+#### [#1052 输出利用先序遍历创建的二叉树中的指定结点的双亲结点](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231052%20%E8%BE%93%E5%87%BA%E5%88%A9%E7%94%A8%E5%85%88%E5%BA%8F%E9%81%8D%E5%8E%86%E5%88%9B%E5%BB%BA%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E7%9A%84%E6%8C%87%E5%AE%9A%E7%BB%93%E7%82%B9%E7%9A%84%E5%8F%8C%E4%BA%B2%E7%BB%93%E7%82%B9)
+
+#### [#1053 输出利用先序遍历创建的二叉树中的指定结点的度](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231053%20%E8%BE%93%E5%87%BA%E5%88%A9%E7%94%A8%E5%85%88%E5%BA%8F%E9%81%8D%E5%8E%86%E5%88%9B%E5%BB%BA%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E7%9A%84%E6%8C%87%E5%AE%9A%E7%BB%93%E7%82%B9%E7%9A%84%E5%BA%A6)
