@@ -37,3 +37,29 @@
 #### [#1052 输出利用先序遍历创建的二叉树中的指定结点的双亲结点](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231052%20%E8%BE%93%E5%87%BA%E5%88%A9%E7%94%A8%E5%85%88%E5%BA%8F%E9%81%8D%E5%8E%86%E5%88%9B%E5%BB%BA%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E7%9A%84%E6%8C%87%E5%AE%9A%E7%BB%93%E7%82%B9%E7%9A%84%E5%8F%8C%E4%BA%B2%E7%BB%93%E7%82%B9)
 
 #### [#1053 输出利用先序遍历创建的二叉树中的指定结点的度](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231053%20%E8%BE%93%E5%87%BA%E5%88%A9%E7%94%A8%E5%85%88%E5%BA%8F%E9%81%8D%E5%8E%86%E5%88%9B%E5%BB%BA%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E7%9A%84%E6%8C%87%E5%AE%9A%E7%BB%93%E7%82%B9%E7%9A%84%E5%BA%A6)
+
+#### [#1055 邻接矩阵到邻接表](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231055%20%E9%82%BB%E6%8E%A5%E7%9F%A9%E9%98%B5%E5%88%B0%E9%82%BB%E6%8E%A5%E8%A1%A8)
+
+#### [#1056 邻接表到邻接矩阵](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231056%20%E9%82%BB%E6%8E%A5%E8%A1%A8%E5%88%B0%E9%82%BB%E6%8E%A5%E7%9F%A9%E9%98%B5)
+
+#### [#1057 有向图的出度计算](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231057%20%E6%9C%89%E5%90%91%E5%9B%BE%E7%9A%84%E5%87%BA%E5%BA%A6%E8%AE%A1%E7%AE%97)
+
+#### [#1058 无向图顶点度的计算](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231058%20%E6%97%A0%E5%90%91%E5%9B%BE%E9%A1%B6%E7%82%B9%E5%BA%A6%E7%9A%84%E8%AE%A1%E7%AE%97)
+
+#### [#1059 有向图的最大出度计算](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231059%20%E6%9C%89%E5%90%91%E5%9B%BE%E7%9A%84%E6%9C%80%E5%A4%A7%E5%87%BA%E5%BA%A6%E8%AE%A1%E7%AE%97)
+
+#### [#1060 无向图的最大度计算](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231060%20%E6%97%A0%E5%90%91%E5%9B%BE%E7%9A%84%E6%9C%80%E5%A4%A7%E5%BA%A6%E8%AE%A1%E7%AE%97)
+
+#### [#1061 有向图的k出度计算](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231061%20%E6%9C%89%E5%90%91%E5%9B%BE%E7%9A%84k%E5%87%BA%E5%BA%A6%E8%AE%A1%E7%AE%97)
+
+#### [#1062 有向图的边存在判断](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231062%20%E6%9C%89%E5%90%91%E5%9B%BE%E7%9A%84%E8%BE%B9%E5%AD%98%E5%9C%A8%E5%88%A4%E6%96%AD)
+
+#### [#1063 带权有向图计算](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231063%20%E5%B8%A6%E6%9D%83%E6%9C%89%E5%90%91%E5%9B%BE%E8%AE%A1%E7%AE%97)
+
+#### [#1064 带权无向图存储判定](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231064%20%E5%B8%A6%E6%9D%83%E6%97%A0%E5%90%91%E5%9B%BE%E5%AD%98%E5%82%A8%E5%88%A4%E5%AE%9A)
+
+#### [#1065 无向图的连通分量计算](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231065%20%E6%97%A0%E5%90%91%E5%9B%BE%E7%9A%84%E8%BF%9E%E9%80%9A%E5%88%86%E9%87%8F%E8%AE%A1%E7%AE%97)
+
+#### [#1067 有向图的邻接表存储强连通判断](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231067%20%20%E6%9C%89%E5%90%91%E5%9B%BE%E7%9A%84%E9%82%BB%E6%8E%A5%E8%A1%A8%E5%AD%98%E5%82%A8%E5%BC%BA%E8%BF%9E%E9%80%9A%E5%88%A4%E6%96%AD)
+
+#### [#1068 图的按录入顺序深度优先搜索](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231068%20%E5%9B%BE%E7%9A%84%E6%8C%89%E5%BD%95%E5%85%A5%E9%A1%BA%E5%BA%8F%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
