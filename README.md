@@ -1,6 +1,6 @@
 # [SWUSTOJ-数据结构后半期](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2)
 
-## 持续更新中......
+## 本部分代码已经更新完毕，SWUSTOJ 其他代码持续更新中......
 
 ### 所有代码均已 **AC** 通过，但是答案不唯一
 
@@ -63,3 +63,23 @@
 #### [#1067 有向图的邻接表存储强连通判断](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231067%20%20%E6%9C%89%E5%90%91%E5%9B%BE%E7%9A%84%E9%82%BB%E6%8E%A5%E8%A1%A8%E5%AD%98%E5%82%A8%E5%BC%BA%E8%BF%9E%E9%80%9A%E5%88%A4%E6%96%AD)
 
 #### [#1068 图的按录入顺序深度优先搜索](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231068%20%E5%9B%BE%E7%9A%84%E6%8C%89%E5%BD%95%E5%85%A5%E9%A1%BA%E5%BA%8F%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
+
+#### [#1069 图的按录入顺序广度优先搜索](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231069%20%E5%9B%BE%E7%9A%84%E6%8C%89%E5%BD%95%E5%85%A5%E9%A1%BA%E5%BA%8F%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
+
+#### [#1070 邻接矩阵存储简单路径](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231070%20%E9%82%BB%E6%8E%A5%E7%9F%A9%E9%98%B5%E5%AD%98%E5%82%A8%E7%AE%80%E5%8D%95%E8%B7%AF%E5%BE%84)
+
+#### [#1071 有向图的邻接矩阵存储顶点删除](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231071%20%E6%9C%89%E5%90%91%E5%9B%BE%E7%9A%84%E9%82%BB%E6%8E%A5%E7%9F%A9%E9%98%B5%E5%AD%98%E5%82%A8%E9%A1%B6%E7%82%B9%E5%88%A0%E9%99%A4)
+
+#### [#1072 有向图的邻接矩阵存储根计算](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231072%20%E6%9C%89%E5%90%91%E5%9B%BE%E7%9A%84%E9%82%BB%E6%8E%A5%E7%9F%A9%E9%98%B5%E5%AD%98%E5%82%A8%E6%A0%B9%E8%AE%A1%E7%AE%97)
+
+#### [#1075 求最小生成树(Prim算法）](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231075%20%E6%B1%82%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91(Prim%E7%AE%97%E6%B3%95%EF%BC%89)
+
+#### [#1076 判断给定有向图是否存在回路](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231076%20%E5%88%A4%E6%96%AD%E7%BB%99%E5%AE%9A%E6%9C%89%E5%90%91%E5%9B%BE%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%E5%9B%9E%E8%B7%AF)
+
+#### [#1077 平衡二叉树的判定](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231077%20%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%88%A4%E5%AE%9A)
+
+#### [#1098 堆的判断](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231098%20%E5%A0%86%E7%9A%84%E5%88%A4%E6%96%AD)
+
+#### [#1099 希尔排序算法实现](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231099%20%E5%B8%8C%E5%B0%94%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E5%AE%9E%E7%8E%B0)
+
+#### [#1105 交换二叉树的孩子结点](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231105%20%E4%BA%A4%E6%8D%A2%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%AD%A9%E5%AD%90%E7%BB%93%E7%82%B9)
