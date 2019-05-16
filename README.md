@@ -72,7 +72,7 @@
 
 #### [#1072 有向图的邻接矩阵存储根计算](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231072%20%E6%9C%89%E5%90%91%E5%9B%BE%E7%9A%84%E9%82%BB%E6%8E%A5%E7%9F%A9%E9%98%B5%E5%AD%98%E5%82%A8%E6%A0%B9%E8%AE%A1%E7%AE%97)
 
-#### [#1075 求最小生成树(Prim算法)](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231075%20%E6%B1%82%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91(Prim%E7%AE%97%E6%B3%95%EF%BC%89)
+#### [#1075 求最小生成树(Prim算法) ](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231075%20%E6%B1%82%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91(Prim%E7%AE%97%E6%B3%95%EF%BC%89)
 
 #### [#1076 判断给定有向图是否存在回路](https://gitee.com/WaringHu/SWUSTOJ-DataStructure-2/tree/master/Codes/%231076%20%E5%88%A4%E6%96%AD%E7%BB%99%E5%AE%9A%E6%9C%89%E5%90%91%E5%9B%BE%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%E5%9B%9E%E8%B7%AF)
 
